@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0",
+  "type": "MetadataDefinitionPlugin",
+  "id": "my.example.metadata.definition.plugin",
+  "name": "My Example Metadata Definition Plugin",
+  "description": "Example of a metadata definition plugin."
+}
